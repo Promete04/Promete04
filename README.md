@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **ISA**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Promete04](https://github.com/Promete04)
-
 - 💬 Ask me about **TrueNAS**
 
 - 📫 How to reach me **ramossantosguillermo14@gmail.com**
