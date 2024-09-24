@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [RISC-ALL](https://github.com/Promete04/RISC-ALL)
 
-- 🌱 I’m currently learning **ISA**
+- 🌱 I’m currently learning **HomeLab**
 
 - 💬 Ask me about **TrueNAS**
 
