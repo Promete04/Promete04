@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=promete04" alt="promete04" /></a> </p>
 
 - 🔭 I’m currently working on **my Homelab**
-- 🌱 I’m currently learning **C and C++**
+- 🌱 I’m currently learning **C, C++ and Network Architecture**
 
 - 💬 Ask me about **TrueNAS**
 
