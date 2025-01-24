@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-🔭 I’m currently working on **my homelab** 
+🔭 I’m currently working on **[my homelab](https://github.com/Promete04/homelab)** 
 <br>
 
 🌱 I’m currently learning **c, c++ and Network architecture**
