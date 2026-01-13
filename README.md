@@ -22,8 +22,6 @@
 </div>
 I am a Computer Science and Engineering student at UAH, deeply passionate about Embedded Systems and the Cybersecurity architectures that protect them. My primary interest lies in securing hardware within critical settings, where reliability and robustness are paramount.
 
-I thrive at the intersection of hardware and software, exploring how we can anchor trust in physical devices to secure critical infrastructure against sophisticated threats.
-
 <div align="center">
 <h3> Current Focus & Research:</h3>
 </div>
