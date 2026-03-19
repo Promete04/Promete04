@@ -3,9 +3,6 @@
 <div align="center">
 <h1>Hi there, I'm Guillermo 👋</h1>
 <h3>Embedded Systems & Hardware Security Enthusiast</h3>
-<p>
-<b>Specializing in Critical Infrastructure & Defense Technologies</b>
-</p>
 
 <!-- Socials -->
 
@@ -20,7 +17,7 @@
 <div align="center">
 <h3> About Me:</h3>
 </div>
-I am a Computer Science and Engineering student at UAH, deeply passionate about Embedded Systems and the Cybersecurity architectures that protect them. My primary interest lies in securing hardware within critical settings, where reliability and robustness are paramount.
+I am a Computer Science and Engineering student at UAH, deeply passionate about Embedded Systems and the Cybersecurity architectures that protect them.
 
 <div align="center">
 <h3> Current Focus & Research:</h3>
