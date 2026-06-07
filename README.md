@@ -2,7 +2,7 @@
 
 <div align="center">
 <h1>Hi there, I'm Guillermo 👋</h1>
-<h3>Embedded Systems & Hardware Security Enthusiast</h3>
+<h3>Embedded Systems & Security Enthusiast</h3>
 
 <!-- Socials -->
 
@@ -23,9 +23,9 @@ I am a Computer Science and Engineering student at UAH, deeply passionate about 
 <h3> Current Focus & Research:</h3>
 </div>
 
-I am actively expanding my expertise in hardware security primitives and network infrastructure:
+I am currently working on:
 
-* Researching Hardware Trust: I am currently deep-diving into PUFs (Physical Unclonable Functions) and FPGAs. My goal is to understand how silicon fingerprinting can be used for authentication and cryptographic key generation in hostile environments.
+* Researching FPGAs : I am currently deep-diving into FPGAs. My main objective is to learn HDLs (right now just VHDL) and how close you can get to them by using HLS.
 
 * The <img src="https://github.com/Promete04/homelab" alt="Homelab" /> Project: I devote my spare time to building and maintaining a comprehensive HomeLab. This serves as my personal testing ground for network segmentation, service deployment, and security configuration simulations.
 
@@ -40,15 +40,10 @@ I am actively expanding my expertise in hardware security primitives and network
 * Java
 * Python
 
-
-
-
-<!-- Future Goals / Learning Path (Added Section) -->
-
 <div align="center">
 <h3>Future Learning Goals:</h3>
 </div>
 
 * Rust 
-* Verilog
+* VHDL
 * Assembly
