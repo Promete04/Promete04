@@ -2,8 +2,7 @@
 
 # Hi, I'm Guillermo 👋
 
-**CS & Engineering student** · Universidad de Alcalá (Madrid) · Erasmus at LMU Munich
-Hardware security · Post-quantum cryptography · FPGAs
+**CS & Engineering student** · Universidad de Alcalá (Madrid) · Erasmus at LMU Munich · Post-quantum cryptography · FPGAs
 
 <a href="https://www.linkedin.com/in/guillermo-ramos-santos-a4313b291/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:guillermo.ramosantos@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
