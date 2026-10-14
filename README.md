@@ -20,7 +20,7 @@ I'm interested in the hardware side of security: how cryptography runs on real d
 
 ## Projects
 
-- **Threshold Key Escrow for E2E Group Messaging**: encrypted group chat where the group key can only be recovered by 3 of 5 escrow authorities, and the server never sees keys or plaintext. Feldman DKG, threshold ElGamal with Chaum–Pedersen proofs, signed-DH channels, RSA-PSS, a threat model and 50+ tests.
+- **[Threshold Key Escrow for E2E Group Messaging](https://github.com/Promete04/project-accountability)**: encrypted group chat where the group key can only be recovered by 3 of 5 escrow authorities, and the server never sees keys or plaintext. Feldman DKG, threshold ElGamal with Chaum–Pedersen proofs, signed-DH channels, RSA-PSS, a threat model and 50+ tests.
 - **[Homelab](https://github.com/Promete04/homelab)**: two-node Proxmox cluster with GPU passthrough, TrueNAS, ~15 LXC containers and 2 VMs. Remote access through Tailscale with ACLs, selected services exposed via Cloudflare Tunnel, documented in a public engineering log.
 
 ## Tech
